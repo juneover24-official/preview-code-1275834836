@@ -1,8 +1,560 @@
 {
   "qq_number": "1275834836",
   "group_number": "238930861",
-  "updated_at": "2026-04-23T15:30:41.673812",
+  "updated_at": "2026-04-23T15:38:35.169841",
   "skins": [
+    {
+      "name": "爹の克莱因的冬季",
+      "file": "爹的克莱因的冬季.bdi",
+      "thumb": "爹的克莱因的冬季.bdi_py_26_default_thumb.png",
+      "full": "爹的克莱因的冬季.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹のganadi牛马版",
+      "file": "爹のganadi牛马版.bdi",
+      "thumb": "爹のganadi牛马版.bdi_py_26_default_thumb.png",
+      "full": "爹のganadi牛马版.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の绷带宅喵",
+      "file": "爹的绷带宅喵.bdi",
+      "thumb": "爹的绷带宅喵.bdi_py_26_default_thumb.png",
+      "full": "爹的绷带宅喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の主人是我垃圾桶",
+      "file": "爹的主人是我垃圾桶.bdi",
+      "thumb": "爹的主人是我垃圾桶.bdi_py_26_default_thumb.png",
+      "full": "爹的主人是我垃圾桶.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の快乐kt",
+      "file": "爹の快乐kt.bdi",
+      "thumb": "爹の快乐kt.bdi_py_26_default_thumb.png",
+      "full": "爹の快乐kt.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の幸运星（字母混雪音）",
+      "file": "爹の幸运星字母混雪音.bdi",
+      "thumb": "爹の幸运星字母混雪音.bdi_py_26_light_thumb.png",
+      "full": "爹の幸运星字母混雪音.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的千禧笔记",
+      "file": "爹的千禧笔记.bdi",
+      "thumb": "爹的千禧笔记.bdi_py_26_default_thumb.png",
+      "full": "爹的千禧笔记.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的极简灰粉",
+      "file": "爹的极简灰粉.bdi",
+      "thumb": "爹的极简灰粉.bdi_py_26_default_thumb.png",
+      "full": "爹的极简灰粉.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の邻座变态前辈",
+      "file": "爹の邻座变态前辈.bdi",
+      "thumb": "爹の邻座变态前辈.bdi_py_26_light_thumb.png",
+      "full": "爹の邻座变态前辈.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の星露谷",
+      "file": "爹的星露谷.bdi",
+      "thumb": "爹的星露谷.bdi_py_26_default_thumb.png",
+      "full": "爹的星露谷.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的一拳超人",
+      "file": "爹的一拳超人闷.bdi",
+      "thumb": "爹的一拳超人闷.bdi_py_26_light_thumb.png",
+      "full": "爹的一拳超人闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の铜色",
+      "file": "爹的铜色.bdi",
+      "thumb": "爹的铜色.bdi_py_26_default_thumb.png",
+      "full": "爹的铜色.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹のlawliet（闷）",
+      "file": "爹のlawliet闷.bdi",
+      "thumb": "爹のlawliet闷.bdi_py_26_light_thumb.png",
+      "full": "爹のlawliet闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹de简-书页里的回忆（脆）",
+      "file": "爹de简-书页里的回忆闷.bdi",
+      "thumb": "爹de简-书页里的回忆闷.bdi_py_26_light_thumb.png",
+      "full": "爹de简-书页里的回忆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的铃儿响叮当（脆脆）",
+      "file": "爹的铃儿响叮当脆脆.bdi",
+      "thumb": "爹的铃儿响叮当脆脆.bdi_py_26_light_thumb.png",
+      "full": "爹的铃儿响叮当脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的恋爱方式2.0",
+      "file": "爹的恋爱方式20.bdi",
+      "thumb": "爹的恋爱方式20.bdi_py_26_light_thumb.png",
+      "full": "爹的恋爱方式20.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の地雷小兔",
+      "file": "爹的地雷小兔.bdi",
+      "thumb": "爹的地雷小兔.bdi_py_26_default_thumb.png",
+      "full": "爹的地雷小兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の魔法三丽鸥",
+      "file": "爹的魔法三丽鸥.bdi",
+      "thumb": "爹的魔法三丽鸥.bdi_py_26_default_thumb.png",
+      "full": "爹的魔法三丽鸥.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の唯一的颜文字os",
+      "file": "爹の唯一的颜文字os无漂浮.bdi",
+      "thumb": "爹の唯一的颜文字os无漂浮.bdi_py_26_default_thumb.png",
+      "full": "爹の唯一的颜文字os无漂浮.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の柔蓝纯洁兔",
+      "file": "爹の柔蓝纯洁兔.bdi",
+      "thumb": "爹の柔蓝纯洁兔.bdi_py_26_default_thumb.png",
+      "full": "爹の柔蓝纯洁兔.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の夜神月（双系统）",
+      "file": "爹の夜神月.bdi",
+      "thumb": "爹の夜神月.bdi_py_26_default_thumb.png",
+      "full": "爹の夜神月.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の卿卿我心",
+      "file": "爹的卿卿我心.bdi",
+      "thumb": "爹的卿卿我心.bdi_py_26_default_thumb.png",
+      "full": "爹的卿卿我心.bdi_py_26_default.png"
+    },
+    {
+      "name": "如月✞･｡꒰もう怖くない꒱｡･✞春人",
+      "file": "如月もう怖くない春人.bdi",
+      "thumb": "如月もう怖くない春人.bdi_py_26_default_thumb.png",
+      "full": "如月もう怖くない春人.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の折旧大理石",
+      "file": "爹の折旧大理石.bdi",
+      "thumb": "爹の折旧大理石.bdi_py_26_default_thumb.png",
+      "full": "爹の折旧大理石.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の电子泪滴（双系统）",
+      "file": "爹の电子泪滴音效2.bdi",
+      "thumb": "爹の电子泪滴音效2.bdi_py_26_light_thumb.png",
+      "full": "爹の电子泪滴音效2.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の少女的呢喃（闷闷音）",
+      "file": "爹の少女的呢喃闷闷音.bdi",
+      "thumb": "爹の少女的呢喃闷闷音.bdi_py_26_light_thumb.png",
+      "full": "爹の少女的呢喃闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の简约kt梦",
+      "file": "爹の简约kt梦.bdi",
+      "thumb": "爹の简约kt梦.bdi_py_26_default_thumb.png",
+      "full": "爹の简约kt梦.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の自嘲熊",
+      "file": "爹的自嘲熊.bdi",
+      "thumb": "爹的自嘲熊.bdi_py_26_default_thumb.png",
+      "full": "爹的自嘲熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の哒哒哒嘀嗒",
+      "file": "爹的哒哒哒嘀嗒2.bdi",
+      "thumb": "爹的哒哒哒嘀嗒2.bdi_py_26_default_thumb.png",
+      "full": "爹的哒哒哒嘀嗒2.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の种花小熊猫",
+      "file": "爹の种花小熊猫.bdi",
+      "thumb": "爹の种花小熊猫.bdi_py_26_default_thumb.png",
+      "full": "爹の种花小熊猫.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の粉色自介",
+      "file": "爹の粉色自介.bdi",
+      "thumb": "爹の粉色自介.bdi_py_26_default_thumb.png",
+      "full": "爹の粉色自介.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹のlawliet（脆）",
+      "file": "爹のlawliet脆.bdi",
+      "thumb": "爹のlawliet脆.bdi_py_26_light_thumb.png",
+      "full": "爹のlawliet脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の锦潮生",
+      "file": "爹の锦潮生.bdi",
+      "thumb": "爹の锦潮生.bdi_py_26_default_thumb.png",
+      "full": "爹の锦潮生.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の故障",
+      "file": "爹的故障.bdi",
+      "thumb": "爹的故障.bdi_py_26_default_thumb.png",
+      "full": "爹的故障.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の帕恰龙",
+      "file": "爹の帕恰龙.bdi",
+      "thumb": "爹の帕恰龙.bdi_py_26_default_thumb.png",
+      "full": "爹の帕恰龙.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の少女的呢喃（脆脆音）",
+      "file": "爹の少女的呢喃脆脆音.bdi",
+      "thumb": "爹の少女的呢喃脆脆音.bdi_py_26_light_thumb.png",
+      "full": "爹の少女的呢喃脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の电子泪滴（双系统）",
+      "file": "爹の电子泪滴.bdi",
+      "thumb": "爹の电子泪滴.bdi_py_26_light_thumb.png",
+      "full": "爹の电子泪滴.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の唯一的颜文字os",
+      "file": "爹の唯一的颜文字os.bdi",
+      "thumb": "爹の唯一的颜文字os.bdi_py_26_default_thumb.png",
+      "full": "爹の唯一的颜文字os.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の嗷呜小狼",
+      "file": "爹的嗷呜小狼.bdi",
+      "thumb": "爹的嗷呜小狼.bdi_py_26_default_thumb.png",
+      "full": "爹的嗷呜小狼.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の草莓啵啵",
+      "file": "爹の草莓啵啵.bdi",
+      "thumb": "爹の草莓啵啵.bdi_py_26_light_thumb.png",
+      "full": "爹の草莓啵啵.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の白鹤梁神女",
+      "file": "爹の白鹤梁神女.bdi",
+      "thumb": "爹の白鹤梁神女.bdi_py_26_default_thumb.png",
+      "full": "爹の白鹤梁神女.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の哒哒哒嘀嗒",
+      "file": "爹的哒哒哒嘀嗒.bdi",
+      "thumb": "爹的哒哒哒嘀嗒.bdi_py_26_default_thumb.png",
+      "full": "爹的哒哒哒嘀嗒.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の水蓝米库",
+      "file": "爹的水蓝米库.bdi",
+      "thumb": "爹的水蓝米库.bdi_py_26_default_thumb.png",
+      "full": "爹的水蓝米库.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の幸运星（字母脆））",
+      "file": "爹の幸运星字母脆.bdi",
+      "thumb": "爹の幸运星字母脆.bdi_py_26_light_thumb.png",
+      "full": "爹の幸运星字母脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的雾蓝心事·键上花",
+      "file": "爹的雾蓝心事键上花.bdi",
+      "thumb": "爹的雾蓝心事键上花.bdi_py_26_light_thumb.png",
+      "full": "爹的雾蓝心事键上花.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の古早新世界",
+      "file": "爹の古早新世界.bdi",
+      "thumb": "爹の古早新世界.bdi_py_26_default_thumb.png",
+      "full": "爹の古早新世界.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の初音未来",
+      "file": "爹の初音未来.bdi",
+      "thumb": "爹の初音未来.bdi_py_26_default_thumb.png",
+      "full": "爹の初音未来.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の童年是kt的梦",
+      "file": "爹の童年是kt的梦.bdi",
+      "thumb": "爹の童年是kt的梦.bdi_py_26_default_thumb.png",
+      "full": "爹の童年是kt的梦.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的星星手册",
+      "file": "爹的星星手册.bdi",
+      "thumb": "爹的星星手册.bdi_py_26_default_thumb.png",
+      "full": "爹的星星手册.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の窝笨笨嘟",
+      "file": "爹的窝笨笨嘟.bdi",
+      "thumb": "爹的窝笨笨嘟.bdi_py_26_default_thumb.png",
+      "full": "爹的窝笨笨嘟.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の鱿鱼是猪猪的天赋",
+      "file": "爹的鱿鱼是猪猪的天赋.bdi",
+      "thumb": "爹的鱿鱼是猪猪的天赋.bdi_py_26_default_thumb.png",
+      "full": "爹的鱿鱼是猪猪的天赋.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の神显之书",
+      "file": "爹的神显之书.bdi",
+      "thumb": "爹的神显之书.bdi_py_26_default_thumb.png",
+      "full": "爹的神显之书.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の喵喵",
+      "file": "爹の喵喵.bdi",
+      "thumb": "爹の喵喵.bdi_py_26_default_thumb.png",
+      "full": "爹の喵喵.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の咖啡熊",
+      "file": "爹の咖啡熊.bdi",
+      "thumb": "爹の咖啡熊.bdi_py_26_default_thumb.png",
+      "full": "爹の咖啡熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の幸运星（韩文混雪音）",
+      "file": "爹の幸运星韩文混雪音.bdi",
+      "thumb": "爹の幸运星韩文混雪音.bdi_py_26_light_thumb.png",
+      "full": "爹の幸运星韩文混雪音.bdi_py_26_light.png"
+    },
+    {
+      "name": "如月†饱饱窝吖†春人",
+      "file": "如月饱饱窝吖春人.bdi",
+      "thumb": "如月饱饱窝吖春人.bdi_py_26_default_thumb.png",
+      "full": "如月饱饱窝吖春人.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の初音未来仿iOS",
+      "file": "爹の初音未来仿iOS.bdi",
+      "thumb": "爹の初音未来仿iOS.bdi_py_26_default_thumb.png",
+      "full": "爹の初音未来仿iOS.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の离恨烟",
+      "file": "爹の离恨烟.bdi",
+      "thumb": "爹の离恨烟.bdi_py_26_light_thumb.png",
+      "full": "爹の离恨烟.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の圣诞恋歌",
+      "file": "爹的圣诞恋歌.bdi",
+      "thumb": "爹的圣诞恋歌.bdi_py_26_light_thumb.png",
+      "full": "爹的圣诞恋歌.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の钢琴羊",
+      "file": "爹的钢琴羊.bdi",
+      "thumb": "爹的钢琴羊.bdi_py_26_light_thumb.png",
+      "full": "爹的钢琴羊.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の小恶魔",
+      "file": "爹的小恶魔.bdi",
+      "thumb": "爹的小恶魔.bdi_py_26_default_thumb.png",
+      "full": "爹的小恶魔.bdi_py_26_default.png"
+    },
+    {
+      "name": "如月†粉茗绮梦笺†春人",
+      "file": "如月粉茗绮梦笺春人.bdi",
+      "thumb": "如月粉茗绮梦笺春人.bdi_py_26_light_thumb.png",
+      "full": "如月粉茗绮梦笺春人.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の亚比恶魔",
+      "file": "爹的亚比恶魔.bdi",
+      "thumb": "爹的亚比恶魔.bdi_py_26_default_thumb.png",
+      "full": "爹的亚比恶魔.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の梦中的海是蓝蓝的",
+      "file": "爹の梦中的海是蓝蓝的.bdi",
+      "thumb": "爹の梦中的海是蓝蓝的.bdi_py_26_default_thumb.png",
+      "full": "爹の梦中的海是蓝蓝的.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹de盲（脆）",
+      "file": "爹de盲脆.bdi",
+      "thumb": "爹de盲脆.bdi_py_26_light_thumb.png",
+      "full": "爹de盲脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹de简-书页里的回忆（脆）",
+      "file": "爹de简-书页里的回忆脆.bdi",
+      "thumb": "爹de简-书页里的回忆脆.bdi_py_26_light_thumb.png",
+      "full": "爹de简-书页里的回忆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の布丁狗",
+      "file": "爹の布丁狗.bdi",
+      "thumb": "爹の布丁狗.bdi_py_26_default_thumb.png",
+      "full": "爹の布丁狗.bdi_py_26_default.png"
+    },
+    {
+      "name": "如月✞･｡꒰もう怖くない꒱｡･✞春人",
+      "file": "如月もう怖くない春人融合版.bdi",
+      "thumb": "如月もう怖くない春人融合版.bdi_py_26_default_thumb.png",
+      "full": "如月もう怖くない春人融合版.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的食之美乐蒂闷闷音",
+      "file": "爹的食之美乐蒂闷闷音.bdi",
+      "thumb": "爹的食之美乐蒂闷闷音.bdi_py_26_light_thumb.png",
+      "full": "爹的食之美乐蒂闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の萝莉摇篮曲",
+      "file": "爹的萝莉摇篮曲.bdi",
+      "thumb": "爹的萝莉摇篮曲.bdi_py_26_light_thumb.png",
+      "full": "爹的萝莉摇篮曲.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の幸运星（韩文脆）",
+      "file": "爹の幸运星韩文脆.bdi",
+      "thumb": "爹の幸运星韩文脆.bdi_py_26_light_thumb.png",
+      "full": "爹の幸运星韩文脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の鼻嘎天使",
+      "file": "爹の鼻嘎天使.bdi",
+      "thumb": "爹の鼻嘎天使.bdi_py_26_default_thumb.png",
+      "full": "爹の鼻嘎天使.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的铃儿响叮当（闷闷）",
+      "file": "爹的铃儿响叮当闷闷.bdi",
+      "thumb": "爹的铃儿响叮当闷闷.bdi_py_26_light_thumb.png",
+      "full": "爹的铃儿响叮当闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹のchiikawa",
+      "file": "爹のchiikawa.bdi",
+      "thumb": "爹のchiikawa.bdi_py_26_default_thumb.png",
+      "full": "爹のchiikawa.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の轻声细语",
+      "file": "爹の轻声细语.bdi",
+      "thumb": "爹の轻声细语.bdi_py_26_default_thumb.png",
+      "full": "爹の轻声细语.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的食之美乐蒂脆脆音",
+      "file": "爹的食之美乐蒂脆脆音.bdi",
+      "thumb": "爹的食之美乐蒂脆脆音.bdi_py_26_light_thumb.png",
+      "full": "爹的食之美乐蒂脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の中二病",
+      "file": "爹の中二病.bdi",
+      "thumb": "爹の中二病.bdi_py_26_default_thumb.png",
+      "full": "爹の中二病.bdi_py_26_default.png"
+    },
+    {
+      "name": "Melodyの甜甜圈",
+      "file": "Melodyの厨师烘培mimi.bdi",
+      "thumb": "Melodyの厨师烘培mimi.bdi_py_26_light_thumb.png",
+      "full": "Melodyの厨师烘培mimi.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の萌萌熊",
+      "file": "爹的萌萌熊.bdi",
+      "thumb": "爹的萌萌熊.bdi_py_26_default_thumb.png",
+      "full": "爹的萌萌熊.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹de盲（闷）",
+      "file": "爹de盲闷.bdi",
+      "thumb": "爹de盲闷.bdi_py_26_light_thumb.png",
+      "full": "爹de盲闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の玩偶",
+      "file": "爹的玩偶.bdi",
+      "thumb": "爹的玩偶.bdi_py_26_default_thumb.png",
+      "full": "爹的玩偶.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の水波",
+      "file": "爹的水波.bdi",
+      "thumb": "爹的水波.bdi_py_26_default_thumb.png",
+      "full": "爹的水波.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の蕾蕾酱",
+      "file": "爹的蕾蕾酱.bdi",
+      "thumb": "爹的蕾蕾酱.bdi_py_26_default_thumb.png",
+      "full": "爹的蕾蕾酱.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の诞诞诞诞诞",
+      "file": "爹の诞诞诞诞诞.bdi",
+      "thumb": "爹の诞诞诞诞诞.bdi_py_26_default_thumb.png",
+      "full": "爹の诞诞诞诞诞.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の便签",
+      "file": "爹的便签.bdi",
+      "thumb": "爹的便签.bdi_py_26_default_thumb.png",
+      "full": "爹的便签.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹的甜梦胶囊",
+      "file": "爹的甜梦胶囊.bdi",
+      "thumb": "爹的甜梦胶囊.bdi_py_26_light_thumb.png",
+      "full": "爹的甜梦胶囊.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の忧郁流光",
+      "file": "爹の忧郁流光.bdi",
+      "thumb": "爹の忧郁流光.bdi_py_26_default_thumb.png",
+      "full": "爹の忧郁流光.bdi_py_26_default.png"
+    },
+    {
+      "name": "爹の舞狮鼻嘎",
+      "file": "爹の舞狮鼻嘎.bdi",
+      "thumb": "爹の舞狮鼻嘎.bdi_py_26_default_thumb.png",
+      "full": "爹の舞狮鼻嘎.bdi_py_26_default.png"
+    },
+    {
+      "name": "如月『便便大王』春人",
+      "file": "如月便便大王春人.bdi",
+      "thumb": "如月便便大王春人.bdi_py_26_light_thumb.png",
+      "full": "如月便便大王春人.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹の玉色晴雨",
+      "file": "爹的玉色晴雨.bdi",
+      "thumb": "爹的玉色晴雨.bdi_py_26_light_thumb.png",
+      "full": "爹的玉色晴雨.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的一拳超人",
+      "file": "爹的一拳超人脆.bdi",
+      "thumb": "爹的一拳超人脆.bdi_py_26_light_thumb.png",
+      "full": "爹的一拳超人脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "爹的轻松平安夜",
+      "file": "爹的轻松平安夜.bdi",
+      "thumb": "爹的轻松平安夜.bdi_py_26_default_thumb.png",
+      "full": "爹的轻松平安夜.bdi_py_26_default.png"
+    },
     {
       "name": "爹de简-书页里的回忆（脆）",
       "file": "爹de简-书页里的回忆脆.bds",
@@ -638,558 +1190,6 @@
       "file": "爹の咖啡熊.bds",
       "thumb": "爹の咖啡熊.bds_py_26_default_thumb.png",
       "full": "爹の咖啡熊.bds_py_26_default.png"
-    },
-    {
-      "name": "爹の克莱因的冬季",
-      "file": "爹的克莱因的冬季.bdi",
-      "thumb": "爹的克莱因的冬季.bdi_py_26_default_thumb.png",
-      "full": "爹的克莱因的冬季.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹のganadi牛马版",
-      "file": "爹のganadi牛马版.bdi",
-      "thumb": "爹のganadi牛马版.bdi_py_26_default_thumb.png",
-      "full": "爹のganadi牛马版.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の绷带宅喵",
-      "file": "爹的绷带宅喵.bdi",
-      "thumb": "爹的绷带宅喵.bdi_py_26_default_thumb.png",
-      "full": "爹的绷带宅喵.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の主人是我垃圾桶",
-      "file": "爹的主人是我垃圾桶.bdi",
-      "thumb": "爹的主人是我垃圾桶.bdi_py_26_default_thumb.png",
-      "full": "爹的主人是我垃圾桶.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の快乐kt",
-      "file": "爹の快乐kt.bdi",
-      "thumb": "爹の快乐kt.bdi_py_26_default_thumb.png",
-      "full": "爹の快乐kt.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の幸运星（字母混雪音）",
-      "file": "爹の幸运星字母混雪音.bdi",
-      "thumb": "爹の幸运星字母混雪音.bdi_py_26_light_thumb.png",
-      "full": "爹の幸运星字母混雪音.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的千禧笔记",
-      "file": "爹的千禧笔记.bdi",
-      "thumb": "爹的千禧笔记.bdi_py_26_default_thumb.png",
-      "full": "爹的千禧笔记.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的极简灰粉",
-      "file": "爹的极简灰粉.bdi",
-      "thumb": "爹的极简灰粉.bdi_py_26_default_thumb.png",
-      "full": "爹的极简灰粉.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の邻座变态前辈",
-      "file": "爹の邻座变态前辈.bdi",
-      "thumb": "爹の邻座变态前辈.bdi_py_26_light_thumb.png",
-      "full": "爹の邻座变态前辈.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の星露谷",
-      "file": "爹的星露谷.bdi",
-      "thumb": "爹的星露谷.bdi_py_26_default_thumb.png",
-      "full": "爹的星露谷.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的一拳超人",
-      "file": "爹的一拳超人闷.bdi",
-      "thumb": "爹的一拳超人闷.bdi_py_26_light_thumb.png",
-      "full": "爹的一拳超人闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の铜色",
-      "file": "爹的铜色.bdi",
-      "thumb": "爹的铜色.bdi_py_26_default_thumb.png",
-      "full": "爹的铜色.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹のlawliet（闷）",
-      "file": "爹のlawliet闷.bdi",
-      "thumb": "爹のlawliet闷.bdi_py_26_light_thumb.png",
-      "full": "爹のlawliet闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹de简-书页里的回忆（脆）",
-      "file": "爹de简-书页里的回忆闷.bdi",
-      "thumb": "爹de简-书页里的回忆闷.bdi_py_26_light_thumb.png",
-      "full": "爹de简-书页里的回忆闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的铃儿响叮当（脆脆）",
-      "file": "爹的铃儿响叮当脆脆.bdi",
-      "thumb": "爹的铃儿响叮当脆脆.bdi_py_26_light_thumb.png",
-      "full": "爹的铃儿响叮当脆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的恋爱方式2.0",
-      "file": "爹的恋爱方式20.bdi",
-      "thumb": "爹的恋爱方式20.bdi_py_26_light_thumb.png",
-      "full": "爹的恋爱方式20.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の地雷小兔",
-      "file": "爹的地雷小兔.bdi",
-      "thumb": "爹的地雷小兔.bdi_py_26_default_thumb.png",
-      "full": "爹的地雷小兔.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の魔法三丽鸥",
-      "file": "爹的魔法三丽鸥.bdi",
-      "thumb": "爹的魔法三丽鸥.bdi_py_26_default_thumb.png",
-      "full": "爹的魔法三丽鸥.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の唯一的颜文字os",
-      "file": "爹の唯一的颜文字os无漂浮.bdi",
-      "thumb": "爹の唯一的颜文字os无漂浮.bdi_py_26_default_thumb.png",
-      "full": "爹の唯一的颜文字os无漂浮.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の柔蓝纯洁兔",
-      "file": "爹の柔蓝纯洁兔.bdi",
-      "thumb": "爹の柔蓝纯洁兔.bdi_py_26_default_thumb.png",
-      "full": "爹の柔蓝纯洁兔.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の夜神月（双系统）",
-      "file": "爹の夜神月.bdi",
-      "thumb": "爹の夜神月.bdi_py_26_default_thumb.png",
-      "full": "爹の夜神月.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の卿卿我心",
-      "file": "爹的卿卿我心.bdi",
-      "thumb": "爹的卿卿我心.bdi_py_26_default_thumb.png",
-      "full": "爹的卿卿我心.bdi_py_26_default.png"
-    },
-    {
-      "name": "如月✞･｡꒰もう怖くない꒱｡･✞春人",
-      "file": "如月もう怖くない春人.bdi",
-      "thumb": "如月もう怖くない春人.bdi_py_26_default_thumb.png",
-      "full": "如月もう怖くない春人.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の折旧大理石",
-      "file": "爹の折旧大理石.bdi",
-      "thumb": "爹の折旧大理石.bdi_py_26_default_thumb.png",
-      "full": "爹の折旧大理石.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の电子泪滴（双系统）",
-      "file": "爹の电子泪滴音效2.bdi",
-      "thumb": "爹の电子泪滴音效2.bdi_py_26_light_thumb.png",
-      "full": "爹の电子泪滴音效2.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の少女的呢喃（闷闷音）",
-      "file": "爹の少女的呢喃闷闷音.bdi",
-      "thumb": "爹の少女的呢喃闷闷音.bdi_py_26_light_thumb.png",
-      "full": "爹の少女的呢喃闷闷音.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の简约kt梦",
-      "file": "爹の简约kt梦.bdi",
-      "thumb": "爹の简约kt梦.bdi_py_26_default_thumb.png",
-      "full": "爹の简约kt梦.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の自嘲熊",
-      "file": "爹的自嘲熊.bdi",
-      "thumb": "爹的自嘲熊.bdi_py_26_default_thumb.png",
-      "full": "爹的自嘲熊.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の哒哒哒嘀嗒",
-      "file": "爹的哒哒哒嘀嗒2.bdi",
-      "thumb": "爹的哒哒哒嘀嗒2.bdi_py_26_default_thumb.png",
-      "full": "爹的哒哒哒嘀嗒2.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の种花小熊猫",
-      "file": "爹の种花小熊猫.bdi",
-      "thumb": "爹の种花小熊猫.bdi_py_26_default_thumb.png",
-      "full": "爹の种花小熊猫.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の粉色自介",
-      "file": "爹の粉色自介.bdi",
-      "thumb": "爹の粉色自介.bdi_py_26_default_thumb.png",
-      "full": "爹の粉色自介.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹のlawliet（脆）",
-      "file": "爹のlawliet脆.bdi",
-      "thumb": "爹のlawliet脆.bdi_py_26_light_thumb.png",
-      "full": "爹のlawliet脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の锦潮生",
-      "file": "爹の锦潮生.bdi",
-      "thumb": "爹の锦潮生.bdi_py_26_default_thumb.png",
-      "full": "爹の锦潮生.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の故障",
-      "file": "爹的故障.bdi",
-      "thumb": "爹的故障.bdi_py_26_default_thumb.png",
-      "full": "爹的故障.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の帕恰龙",
-      "file": "爹の帕恰龙.bdi",
-      "thumb": "爹の帕恰龙.bdi_py_26_default_thumb.png",
-      "full": "爹の帕恰龙.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の少女的呢喃（脆脆音）",
-      "file": "爹の少女的呢喃脆脆音.bdi",
-      "thumb": "爹の少女的呢喃脆脆音.bdi_py_26_light_thumb.png",
-      "full": "爹の少女的呢喃脆脆音.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の电子泪滴（双系统）",
-      "file": "爹の电子泪滴.bdi",
-      "thumb": "爹の电子泪滴.bdi_py_26_light_thumb.png",
-      "full": "爹の电子泪滴.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の唯一的颜文字os",
-      "file": "爹の唯一的颜文字os.bdi",
-      "thumb": "爹の唯一的颜文字os.bdi_py_26_default_thumb.png",
-      "full": "爹の唯一的颜文字os.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の嗷呜小狼",
-      "file": "爹的嗷呜小狼.bdi",
-      "thumb": "爹的嗷呜小狼.bdi_py_26_default_thumb.png",
-      "full": "爹的嗷呜小狼.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の草莓啵啵",
-      "file": "爹の草莓啵啵.bdi",
-      "thumb": "爹の草莓啵啵.bdi_py_26_light_thumb.png",
-      "full": "爹の草莓啵啵.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の白鹤梁神女",
-      "file": "爹の白鹤梁神女.bdi",
-      "thumb": "爹の白鹤梁神女.bdi_py_26_default_thumb.png",
-      "full": "爹の白鹤梁神女.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の哒哒哒嘀嗒",
-      "file": "爹的哒哒哒嘀嗒.bdi",
-      "thumb": "爹的哒哒哒嘀嗒.bdi_py_26_default_thumb.png",
-      "full": "爹的哒哒哒嘀嗒.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の水蓝米库",
-      "file": "爹的水蓝米库.bdi",
-      "thumb": "爹的水蓝米库.bdi_py_26_default_thumb.png",
-      "full": "爹的水蓝米库.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の幸运星（字母脆））",
-      "file": "爹の幸运星字母脆.bdi",
-      "thumb": "爹の幸运星字母脆.bdi_py_26_light_thumb.png",
-      "full": "爹の幸运星字母脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的雾蓝心事·键上花",
-      "file": "爹的雾蓝心事键上花.bdi",
-      "thumb": "爹的雾蓝心事键上花.bdi_py_26_light_thumb.png",
-      "full": "爹的雾蓝心事键上花.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の古早新世界",
-      "file": "爹の古早新世界.bdi",
-      "thumb": "爹の古早新世界.bdi_py_26_default_thumb.png",
-      "full": "爹の古早新世界.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の初音未来",
-      "file": "爹の初音未来.bdi",
-      "thumb": "爹の初音未来.bdi_py_26_default_thumb.png",
-      "full": "爹の初音未来.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の童年是kt的梦",
-      "file": "爹の童年是kt的梦.bdi",
-      "thumb": "爹の童年是kt的梦.bdi_py_26_default_thumb.png",
-      "full": "爹の童年是kt的梦.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的星星手册",
-      "file": "爹的星星手册.bdi",
-      "thumb": "爹的星星手册.bdi_py_26_default_thumb.png",
-      "full": "爹的星星手册.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の窝笨笨嘟",
-      "file": "爹的窝笨笨嘟.bdi",
-      "thumb": "爹的窝笨笨嘟.bdi_py_26_default_thumb.png",
-      "full": "爹的窝笨笨嘟.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の鱿鱼是猪猪的天赋",
-      "file": "爹的鱿鱼是猪猪的天赋.bdi",
-      "thumb": "爹的鱿鱼是猪猪的天赋.bdi_py_26_default_thumb.png",
-      "full": "爹的鱿鱼是猪猪的天赋.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の神显之书",
-      "file": "爹的神显之书.bdi",
-      "thumb": "爹的神显之书.bdi_py_26_default_thumb.png",
-      "full": "爹的神显之书.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の喵喵",
-      "file": "爹の喵喵.bdi",
-      "thumb": "爹の喵喵.bdi_py_26_default_thumb.png",
-      "full": "爹の喵喵.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の咖啡熊",
-      "file": "爹の咖啡熊.bdi",
-      "thumb": "爹の咖啡熊.bdi_py_26_default_thumb.png",
-      "full": "爹の咖啡熊.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の幸运星（韩文混雪音）",
-      "file": "爹の幸运星韩文混雪音.bdi",
-      "thumb": "爹の幸运星韩文混雪音.bdi_py_26_light_thumb.png",
-      "full": "爹の幸运星韩文混雪音.bdi_py_26_light.png"
-    },
-    {
-      "name": "如月†饱饱窝吖†春人",
-      "file": "如月饱饱窝吖春人.bdi",
-      "thumb": "如月饱饱窝吖春人.bdi_py_26_default_thumb.png",
-      "full": "如月饱饱窝吖春人.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の初音未来仿iOS",
-      "file": "爹の初音未来仿iOS.bdi",
-      "thumb": "爹の初音未来仿iOS.bdi_py_26_default_thumb.png",
-      "full": "爹の初音未来仿iOS.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の离恨烟",
-      "file": "爹の离恨烟.bdi",
-      "thumb": "爹の离恨烟.bdi_py_26_light_thumb.png",
-      "full": "爹の离恨烟.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の圣诞恋歌",
-      "file": "爹的圣诞恋歌.bdi",
-      "thumb": "爹的圣诞恋歌.bdi_py_26_light_thumb.png",
-      "full": "爹的圣诞恋歌.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の钢琴羊",
-      "file": "爹的钢琴羊.bdi",
-      "thumb": "爹的钢琴羊.bdi_py_26_light_thumb.png",
-      "full": "爹的钢琴羊.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の小恶魔",
-      "file": "爹的小恶魔.bdi",
-      "thumb": "爹的小恶魔.bdi_py_26_default_thumb.png",
-      "full": "爹的小恶魔.bdi_py_26_default.png"
-    },
-    {
-      "name": "如月†粉茗绮梦笺†春人",
-      "file": "如月粉茗绮梦笺春人.bdi",
-      "thumb": "如月粉茗绮梦笺春人.bdi_py_26_light_thumb.png",
-      "full": "如月粉茗绮梦笺春人.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の亚比恶魔",
-      "file": "爹的亚比恶魔.bdi",
-      "thumb": "爹的亚比恶魔.bdi_py_26_default_thumb.png",
-      "full": "爹的亚比恶魔.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の梦中的海是蓝蓝的",
-      "file": "爹の梦中的海是蓝蓝的.bdi",
-      "thumb": "爹の梦中的海是蓝蓝的.bdi_py_26_default_thumb.png",
-      "full": "爹の梦中的海是蓝蓝的.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹de盲（脆）",
-      "file": "爹de盲脆.bdi",
-      "thumb": "爹de盲脆.bdi_py_26_light_thumb.png",
-      "full": "爹de盲脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹de简-书页里的回忆（脆）",
-      "file": "爹de简-书页里的回忆脆.bdi",
-      "thumb": "爹de简-书页里的回忆脆.bdi_py_26_light_thumb.png",
-      "full": "爹de简-书页里的回忆脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の布丁狗",
-      "file": "爹の布丁狗.bdi",
-      "thumb": "爹の布丁狗.bdi_py_26_default_thumb.png",
-      "full": "爹の布丁狗.bdi_py_26_default.png"
-    },
-    {
-      "name": "如月✞･｡꒰もう怖くない꒱｡･✞春人",
-      "file": "如月もう怖くない春人融合版.bdi",
-      "thumb": "如月もう怖くない春人融合版.bdi_py_26_default_thumb.png",
-      "full": "如月もう怖くない春人融合版.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的食之美乐蒂闷闷音",
-      "file": "爹的食之美乐蒂闷闷音.bdi",
-      "thumb": "爹的食之美乐蒂闷闷音.bdi_py_26_light_thumb.png",
-      "full": "爹的食之美乐蒂闷闷音.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の萝莉摇篮曲",
-      "file": "爹的萝莉摇篮曲.bdi",
-      "thumb": "爹的萝莉摇篮曲.bdi_py_26_light_thumb.png",
-      "full": "爹的萝莉摇篮曲.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の幸运星（韩文脆）",
-      "file": "爹の幸运星韩文脆.bdi",
-      "thumb": "爹の幸运星韩文脆.bdi_py_26_light_thumb.png",
-      "full": "爹の幸运星韩文脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の鼻嘎天使",
-      "file": "爹の鼻嘎天使.bdi",
-      "thumb": "爹の鼻嘎天使.bdi_py_26_default_thumb.png",
-      "full": "爹の鼻嘎天使.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的铃儿响叮当（闷闷）",
-      "file": "爹的铃儿响叮当闷闷.bdi",
-      "thumb": "爹的铃儿响叮当闷闷.bdi_py_26_light_thumb.png",
-      "full": "爹的铃儿响叮当闷闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹のchiikawa",
-      "file": "爹のchiikawa.bdi",
-      "thumb": "爹のchiikawa.bdi_py_26_default_thumb.png",
-      "full": "爹のchiikawa.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の轻声细语",
-      "file": "爹の轻声细语.bdi",
-      "thumb": "爹の轻声细语.bdi_py_26_default_thumb.png",
-      "full": "爹の轻声细语.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的食之美乐蒂脆脆音",
-      "file": "爹的食之美乐蒂脆脆音.bdi",
-      "thumb": "爹的食之美乐蒂脆脆音.bdi_py_26_light_thumb.png",
-      "full": "爹的食之美乐蒂脆脆音.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の中二病",
-      "file": "爹の中二病.bdi",
-      "thumb": "爹の中二病.bdi_py_26_default_thumb.png",
-      "full": "爹の中二病.bdi_py_26_default.png"
-    },
-    {
-      "name": "Melodyの甜甜圈",
-      "file": "Melodyの厨师烘培mimi.bdi",
-      "thumb": "Melodyの厨师烘培mimi.bdi_py_26_light_thumb.png",
-      "full": "Melodyの厨师烘培mimi.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の萌萌熊",
-      "file": "爹的萌萌熊.bdi",
-      "thumb": "爹的萌萌熊.bdi_py_26_default_thumb.png",
-      "full": "爹的萌萌熊.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹de盲（闷）",
-      "file": "爹de盲闷.bdi",
-      "thumb": "爹de盲闷.bdi_py_26_light_thumb.png",
-      "full": "爹de盲闷.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の玩偶",
-      "file": "爹的玩偶.bdi",
-      "thumb": "爹的玩偶.bdi_py_26_default_thumb.png",
-      "full": "爹的玩偶.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の水波",
-      "file": "爹的水波.bdi",
-      "thumb": "爹的水波.bdi_py_26_default_thumb.png",
-      "full": "爹的水波.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の蕾蕾酱",
-      "file": "爹的蕾蕾酱.bdi",
-      "thumb": "爹的蕾蕾酱.bdi_py_26_default_thumb.png",
-      "full": "爹的蕾蕾酱.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の诞诞诞诞诞",
-      "file": "爹の诞诞诞诞诞.bdi",
-      "thumb": "爹の诞诞诞诞诞.bdi_py_26_default_thumb.png",
-      "full": "爹の诞诞诞诞诞.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の便签",
-      "file": "爹的便签.bdi",
-      "thumb": "爹的便签.bdi_py_26_default_thumb.png",
-      "full": "爹的便签.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹的甜梦胶囊",
-      "file": "爹的甜梦胶囊.bdi",
-      "thumb": "爹的甜梦胶囊.bdi_py_26_light_thumb.png",
-      "full": "爹的甜梦胶囊.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の忧郁流光",
-      "file": "爹の忧郁流光.bdi",
-      "thumb": "爹の忧郁流光.bdi_py_26_default_thumb.png",
-      "full": "爹の忧郁流光.bdi_py_26_default.png"
-    },
-    {
-      "name": "爹の舞狮鼻嘎",
-      "file": "爹の舞狮鼻嘎.bdi",
-      "thumb": "爹の舞狮鼻嘎.bdi_py_26_default_thumb.png",
-      "full": "爹の舞狮鼻嘎.bdi_py_26_default.png"
-    },
-    {
-      "name": "如月『便便大王』春人",
-      "file": "如月便便大王春人.bdi",
-      "thumb": "如月便便大王春人.bdi_py_26_light_thumb.png",
-      "full": "如月便便大王春人.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹の玉色晴雨",
-      "file": "爹的玉色晴雨.bdi",
-      "thumb": "爹的玉色晴雨.bdi_py_26_light_thumb.png",
-      "full": "爹的玉色晴雨.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的一拳超人",
-      "file": "爹的一拳超人脆.bdi",
-      "thumb": "爹的一拳超人脆.bdi_py_26_light_thumb.png",
-      "full": "爹的一拳超人脆.bdi_py_26_light.png"
-    },
-    {
-      "name": "爹的轻松平安夜",
-      "file": "爹的轻松平安夜.bdi",
-      "thumb": "爹的轻松平安夜.bdi_py_26_default_thumb.png",
-      "full": "爹的轻松平安夜.bdi_py_26_default.png"
     }
   ]
 }
