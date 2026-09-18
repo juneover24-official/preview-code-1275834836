@@ -1,7 +1,7 @@
 {
   "qq_number": "1275834836",
   "group_number": "238930861",
-  "updated_at": "2026-09-18T03:20:27+00:00",
+  "updated_at": "2026-09-18T03:20:54+00:00",
   "skins": [
     {
       "name": "爹の克莱因的冬季",
@@ -1197,6 +1197,13 @@
       "thumb": "爹の靛紫蓝记忆闷脆.bdi_py_26_light_thumb.png",
       "full": "爹の靛紫蓝记忆闷脆.bdi_py_26_light_thumb.png",
       "file_id": "d0605e91e1800e2050edbd12ebc114af"
+    },
+    {
+      "name": "爹de萌之正义",
+      "file": "爹de萌之正义.bdi",
+      "thumb": "爹de萌之正义.bdi_py_26_light_thumb.png",
+      "full": "爹de萌之正义.bdi_py_26_light_thumb.png",
+      "file_id": "df9b9c112d35c469949f6d1bb4f59fbd"
     }
   ]
 }
